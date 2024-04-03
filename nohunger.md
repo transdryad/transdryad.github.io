@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nohunger
 title: No Hunger
 permalink: /nohunger/
 ---
