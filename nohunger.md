@@ -1,7 +1,7 @@
 ---
 layout: nohunger
-title: No Hunger
+title: Zero
 permalink: /nohunger/
 ---
 
-PLaceholder for the community Project.
+The United Nations' second Sustainable Development Goal is Zero Hunger.
