@@ -16,4 +16,4 @@ In 2022, more than 9.2% of the worlds population, or 735 million people experinc
 
 [^fn4]:[https://public.wsu.edu/~mreed/380American%20Consumption.html](https://public.wsu.edu/~mreed/380American%20Consumption.html)
 
-[^fn5}:[https://dashboards.sdgindex.org/static/profiles/pdfs/SDR-2023-united-states.pdf](https://dashboards.sdgindex.org/static/profiles/pdfs/SDR-2023-united-states.pdf)
+[^fn5]:[https://dashboards.sdgindex.org/static/profiles/pdfs/SDR-2023-united-states.pdf](https://dashboards.sdgindex.org/static/profiles/pdfs/SDR-2023-united-states.pdf)
